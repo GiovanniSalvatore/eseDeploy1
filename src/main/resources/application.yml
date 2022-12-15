@@ -1,0 +1,4 @@
+environment: test
+devName: Giovanni
+server :
+  port : 7070
